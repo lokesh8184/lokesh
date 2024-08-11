@@ -1,0 +1,81 @@
+body{
+    background-image: url(https://wallpaper.forfun.com/fetch/57/57911d00473af95ca9669a8151e867f9.jpeg);
+    height: 800px;
+}
+
+header{
+    
+    margin: 0%;
+    padding: 0%;
+    position: fixed;
+
+}
+
+    
+.logobox{
+    padding: 11px;
+    display: inline-block;
+    color: antiquewhite;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: relative;
+    left: 50px;
+}
+.menu{
+    padding: 10px;
+    display: inline-block;
+    width: 700px;
+    position: relative;
+    left: 300px;
+}
+.menu>a{
+    color: white;
+    text-decoration: none;
+    padding: 25px;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transition: 0.5ms;
+
+}
+.menu>a:hover{
+    color: rgb(224, 113, 182);
+    
+}
+
+.btn{
+    color: white;
+    padding: 8px;
+    width: 100px;
+    position: relative;
+    left: 500px;
+    border-radius: 20px;
+    background-color: rgb(62, 152, 200);
+    border: none;
+    transition: 0.5s;
+    cursor: pointer;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+.btn:hover{
+
+    background-color: rgb(118, 165, 215);
+}
+
+h1{
+    color:  white;
+    position: relative;
+    top: 100px;
+    left: 65px;
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color: white;
+    position: relative;
+    top: 70px;
+    left: 65px;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

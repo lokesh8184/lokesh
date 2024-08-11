@@ -1,0 +1,42 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+header{
+    background-color: rgb(89, 95, 54);
+    padding: 50px;
+    text-align: center;
+    color: rgb(52, 39, 69);
+    
+}
+header>h1{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+section{
+    font-size: 40px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+section>img{
+    size: 50px;
+}
+
+footer{
+
+    padding: 33px;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: none;
+    background-color: bisque;
+}
+
+footer>a{
+
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
